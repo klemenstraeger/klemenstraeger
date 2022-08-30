@@ -1,6 +1,6 @@
 # :wave: Hey there
 
-:school_satchel: Business Informatics Student@HTW Dresden (6/8)
+:school_satchel: Business Informatics Student@HTW Dresden (7/8)
 
 :point_right: [GitLab](https://gitlab.com/klemenstraeger)
 
