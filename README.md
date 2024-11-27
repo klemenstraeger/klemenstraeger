@@ -1,6 +1,6 @@
 # :wave: Hey there
 
-:school_satchel: Business Informatics Scientist (Diploma) from Dresden
+:school_satchel: Fullstack Software Developer from Dresden
 
 :point_right: [GitLab](https://gitlab.com/klemenstraeger)
 
